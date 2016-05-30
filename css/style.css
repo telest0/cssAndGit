@@ -1,0 +1,11 @@
+body{
+	font-size: 18px;
+	width: 475px;	
+}
+.header, .bottomBorder, .main div{
+	border-bottom: 1px solid #777;
+	
+}
+.avka, h1 {
+	text-align: center;
+}
